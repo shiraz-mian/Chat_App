@@ -1,0 +1,24 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "chat_app",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "real",
+    "time",
+    "chat",
+    "app"
+  ],
+  "author": "sheeraj Mian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "socket.io": "^4.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
